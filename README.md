@@ -1,6 +1,8 @@
 # dmenu
 my fork of dmenu
 
+*to be used in conjunction with my dwm build*
+
 ![Image](https://i.imgur.com/PQKPYmU.gif)
 
 
